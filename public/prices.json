@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Membership",
+    "description": "Access to cardio and weights",
+    "price": 19.99,
+    "features": [
+      "Cardio machines",
+      "Weights",
+      "1 free PT session"
+    ],
+    "img": "https://example.com/images/basic.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Standard Membership",
+    "description": "Access to all equipment and classes",
+    "price": 29.99,
+    "features": [
+      "Cardio machines",
+      "Weights",
+      "All classes",
+      "2 free PT sessions"
+    ],
+    "img": "https://example.com/images/standard.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Premium Membership",
+    "description": "Access to all equipment, classes, and amenities",
+    "price": 49.99,
+    "features": [
+      "Cardio machines",
+      "Weights",
+      "All classes",
+      "Unlimited tanning",
+      "Hydro massage",
+      "3 free PT sessions"
+    ],
+    "img": "https://example.com/images/premium.jpg"
+  }
+]
